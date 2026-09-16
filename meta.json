@@ -1,0 +1,23 @@
+{
+  "repo": "wirecast-pro",
+  "product": "Wirecast Pro",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "live-streaming",
+  "topics": [
+    "wirecast-live",
+    "multi-source-switcher",
+    "rtmp-streaming-desktop",
+    "event-broadcast-tools",
+    "wirecast-windows",
+    "live-production-2026",
+    "how-to-install-wirecast",
+    "wirecast-desktop-package",
+    "iso-record-suite",
+    "telestream-wirecast"
+  ],
+  "site": "toolix.me"
+}
